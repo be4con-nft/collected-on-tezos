@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Collected on Tezos",
+    "as_of_month": "2026-08",
+    "period_start": "2025-07",
+    "period_end": "2026-08",
+    "updated_at": "2026-09-08T21:00:00Z",
+    "unit_people": "wallets",
+    "sales_definition": "Paid marketplace sales only (list_buy, offer_accept, offer_floor_accept, dutch_auction_buy, english_auction_settle, paid open_edition_buy). Gifts and free transfers excluded.",
+    "markets": "OBJKT indexer: objkt.com, Teia, fxhash, HEN, Versum, 8bidou and others indexed by data.objkt.com",
+    "usd_method": "Monthly XTZ volume times TzKT XTZ/USD quote around mid-month",
+    "unique_note": "Collector and seller counts are unique wallets in that month only. Do not sum across months.",
+    "net_new_minters": null,
+    "net_new_minters_note": "Deferred. Planned: first mint ever + wallet created within 90 days before that mint.",
+    "source": "objkt.com GraphQL v3 + TzKT quotes"
+  },
+  "months": [
+    {"month": "2025-07", "pieces": 69089, "sales": 62436, "xtz": 1246507.82, "usd": 795224.93, "collectors": 3899, "sellers": 6032, "avg_pieces_per_collector": 17.72, "avg_usd_per_collector": 203.96},
+    {"month": "2025-08", "pieces": 58038, "sales": 52393, "xtz": 831716.82, "usd": 697098.72, "collectors": 3689, "sellers": 5418, "avg_pieces_per_collector": 15.73, "avg_usd_per_collector": 188.97},
+    {"month": "2025-09", "pieces": 99666, "sales": 53104, "xtz": 625563.67, "usd": 480758.06, "collectors": 3585, "sellers": 5213, "avg_pieces_per_collector": 27.8, "avg_usd_per_collector": 134.1},
+    {"month": "2025-10", "pieces": 39015, "sales": 36606, "xtz": 594688.25, "usd": 373589.9, "collectors": 2975, "sellers": 4206, "avg_pieces_per_collector": 13.11, "avg_usd_per_collector": 125.58},
+    {"month": "2025-11", "pieces": 41322, "sales": 36980, "xtz": 542175.27, "usd": 301976.32, "collectors": 2796, "sellers": 4033, "avg_pieces_per_collector": 14.78, "avg_usd_per_collector": 108.0},
+    {"month": "2025-12", "pieces": 46830, "sales": 38223, "xtz": 669494.35, "usd": 321211.49, "collectors": 2599, "sellers": 4870, "avg_pieces_per_collector": 18.02, "avg_usd_per_collector": 123.59},
+    {"month": "2026-01", "pieces": 30402, "sales": 28545, "xtz": 432088.9, "usd": 249839.28, "collectors": 2276, "sellers": 4014, "avg_pieces_per_collector": 13.36, "avg_usd_per_collector": 109.77},
+    {"month": "2026-02", "pieces": 32658, "sales": 31088, "xtz": 452351.65, "usd": 191282.88, "collectors": 2052, "sellers": 4452, "avg_pieces_per_collector": 15.92, "avg_usd_per_collector": 93.22},
+    {"month": "2026-03", "pieces": 33862, "sales": 31759, "xtz": 573971.68, "usd": 216706.87, "collectors": 1970, "sellers": 4433, "avg_pieces_per_collector": 17.19, "avg_usd_per_collector": 110.0},
+    {"month": "2026-04", "pieces": 49677, "sales": 44315, "xtz": 767327.27, "usd": 265681.08, "collectors": 2403, "sellers": 4225, "avg_pieces_per_collector": 20.67, "avg_usd_per_collector": 110.56},
+    {"month": "2026-05", "pieces": 35959, "sales": 34076, "xtz": 620232.42, "usd": 235002.88, "collectors": 2146, "sellers": 4416, "avg_pieces_per_collector": 16.76, "avg_usd_per_collector": 109.51},
+    {"month": "2026-06", "pieces": 40083, "sales": 38227, "xtz": 1264404.19, "usd": 300993.01, "collectors": 2064, "sellers": 5023, "avg_pieces_per_collector": 19.42, "avg_usd_per_collector": 145.83},
+    {"month": "2026-07", "pieces": 40509, "sales": 36601, "xtz": 1019027.2, "usd": 236163.35, "collectors": 2060, "sellers": 5198, "avg_pieces_per_collector": 19.66, "avg_usd_per_collector": 114.64},
+    {"month": "2026-08", "pieces": 43103, "sales": 38141, "xtz": 1037562.79, "usd": 203110.34, "collectors": 2071, "sellers": 5237, "avg_pieces_per_collector": 20.81, "avg_usd_per_collector": 98.07}
+  ]
+}
