@@ -1,8 +1,12 @@
 {
   "source": "objkt wallets backfill",
+  "note": "Full buyer/seller address arrays are on Google Drive folder Tezos Art Stats. GitHub file connector cannot accept ~1MB month files.",
   "months": [
     {"month": "2023-01", "buyers": 13324, "sellers": 16671},
     {"month": "2023-02", "buyers": 11896, "sellers": 12288},
-    {"month": "2023-03", "buyers": 10616, "sellers": 11818}
+    {"month": "2023-03", "buyers": 10616, "sellers": 11818},
+    {"month": "2023-04", "buyers": 9902, "sellers": 10587},
+    {"month": "2023-05", "buyers": 10802, "sellers": 11619},
+    {"month": "2023-06", "buyers": 10059, "sellers": 11266}
   ]
 }
