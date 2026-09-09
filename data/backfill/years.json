@@ -1,0 +1,56 @@
+{
+  "source": "Drive wallet files + existing volume files (data/backfill/monthly.json + data/monthly.json)",
+  "period_start": "2023-01",
+  "period_end": "2026-08",
+  "note": "buyers_count/sellers_count/active_count are unique wallet unions for the calendar year. Do not sum monthly unique counts. Volume fields are sums of monthly volume files.",
+  "years": [
+    {
+      "year": "2023",
+      "months": 12,
+      "buyers_count": 38443,
+      "sellers_count": 39618,
+      "active_count": 58058,
+      "pieces": 1985261,
+      "sales": 1829941,
+      "xtz": 17000293.16,
+      "usd": 15778398.16,
+      "volume_months": 12
+    },
+    {
+      "year": "2024",
+      "months": 12,
+      "buyers_count": 18086,
+      "sellers_count": 22014,
+      "active_count": 30083,
+      "pieces": 849782,
+      "sales": 660349,
+      "xtz": 5925458.39,
+      "usd": 5536572.15,
+      "volume_months": 12
+    },
+    {
+      "year": "2025",
+      "months": 12,
+      "buyers_count": 12331,
+      "sellers_count": 18919,
+      "active_count": 24130,
+      "pieces": 656755,
+      "sales": 552199,
+      "xtz": 7671680.37,
+      "usd": 5205944.6,
+      "volume_months": 12
+    },
+    {
+      "year": "2026",
+      "months": 8,
+      "buyers_count": 5774,
+      "sellers_count": 14887,
+      "active_count": 16956,
+      "pieces": 306253,
+      "sales": 282752,
+      "xtz": 6166966.1,
+      "usd": 1898779.69,
+      "volume_months": 8
+    }
+  ]
+}
