@@ -17,6 +17,7 @@
     {"month": "2024-02", "buyers_count": 5952, "sellers_count": 6906},
     {"month": "2024-03", "buyers_count": 5870, "sellers_count": 6406},
     {"month": "2024-04", "buyers_count": 6242, "sellers_count": 6304},
-    {"month": "2024-05", "buyers_count": 4524, "sellers_count": 5633}
+    {"month": "2024-05", "buyers_count": 4524, "sellers_count": 5633},
+    {"month": "2024-06", "buyers_count": 4445, "sellers_count": 5411}
   ]
 }
