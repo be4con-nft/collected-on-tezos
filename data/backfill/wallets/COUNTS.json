@@ -13,6 +13,7 @@
     {"month": "2023-10", "buyers_count": 8532, "sellers_count": 9917},
     {"month": "2023-11", "buyers_count": 8850, "sellers_count": 9041},
     {"month": "2023-12", "buyers_count": 9081, "sellers_count": 8991},
-    {"month": "2024-01", "buyers_count": 6478, "sellers_count": 7413}
+    {"month": "2024-01", "buyers_count": 6478, "sellers_count": 7413},
+    {"month": "2024-02", "buyers_count": 5952, "sellers_count": 6906}
   ]
 }
